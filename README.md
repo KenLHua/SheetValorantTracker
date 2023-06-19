@@ -2,6 +2,7 @@
 
 
 1. Create a new sheet, import the .xlsx file.
+   
    a. Put in a username in Column A, e.g. DisplayName#Tag
 3. Go to Extensions -> Apps Script
 4. Copy paste all text within script.js
