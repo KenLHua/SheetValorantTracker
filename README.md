@@ -8,6 +8,8 @@
 4. Copy paste all text within script.js
 5. On the left, click triggers
 6. Add a new trigger
+   
    a. Set time-event
+   
    b. Daily
 6. Now script will run daily
